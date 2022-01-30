@@ -3,21 +3,34 @@
 </h1>
 
 <h4 align="center">
-  Layout responsivo do Clone Twiter usando Styled-Components(React)
+  Curso de Python em andamento...
 </h4>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologia</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">Licença</a>
 </p>
 
 <h4 align="left">
-  Demotração do layout desenvolvido no estudo.
+  Exercício 01.
 </h4>
+<a href="https://imgur.com/yxgKcy8"><img src="https://i.imgur.com/yxgKcy8.png" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/1j5Yvye"><img src="https://i.imgur.com/1j5Yvye.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/RKGf6Nm"><img src="https://i.imgur.com/RKGf6Nm.png" title="source: imgur.com" /></a>
+<h4 align="left">
+  Exercício 02.
+</h4>
+<a href="https://imgur.com/xAHh2mY"><img src="https://i.imgur.com/xAHh2mY.png" title="source: imgur.com" /></a>
+
+<h4 align="left">
+  Exercício 03.
+</h4>
+<a href="https://imgur.com/EOMh8H6"><img src="https://i.imgur.com/EOMh8H6.png" title="source: imgur.com" /></a>
+
+<h4 align="left">
+  Exercício 04.
+</h4>
+<a href="https://imgur.com/Ncke5E7"><img src="https://i.imgur.com/Ncke5E7.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
@@ -47,11 +60,5 @@ Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/Silva
 
 Desenvolvedor: Silvanei Martins<br>
 Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)<br>
-Contato: WhastApp Comercial: +55 (69) 9.9970-8265 <br>
-Email: silvaneimartins_rcc@hotmail.com / silvaneimartins34@gmail.com<br>
-
-Empresa: <br>
-Sam Security Develop.<br>
-
-Observação: Gostaria de pedir para quem usar, clonar ou realizar qualquer outro tipo de experimento com o código,
-por favor, mantenha a assinatura do autor no código.
+Contato: WhastApp Comercial: +55 (69) 9.8405-2620 <br>
+Email: silvaneimartins_rcc@hotmail.com <br>
