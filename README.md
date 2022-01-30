@@ -58,6 +58,8 @@ Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/Silva
 
 ---
 
+## :rocket: Developer
+
 Desenvolvedor: Silvanei Martins<br>
 Linkedin: [Entrar em contato!](https://www.linkedin.com/in/silvanei-martins-a5412436/)<br>
 Contato: WhastApp Comercial: +55 (69) 9.8405-2620 <br>
