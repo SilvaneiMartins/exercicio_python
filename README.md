@@ -21,17 +21,13 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e aumentar mais meus conhecimentos a montar um layout responsivo utilizando o Styled-Components(React). Eu utizei as tecnologias logo abaixo:
+Estes exercício foi feito do curso de python que estou estudando. Eu utizei a tecnologia logo abaixo:
 
--  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
--  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
--  [ReactJS](https://reactjs.org/)
--  [styled-components](https://www.styled-components.com/)
--  [Typescript](https://www.typescriptlang.org/)
+-  [PYTHON](https://www.python.org/)
 
 ## :information_source: Como usar
 
-Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.com) e [Yarn](https://yarnpkg.com/) ou maior instalados. Comandos:
+Procedimento para executar os exercícios. Segue comandos abaixo:
 
 ```bash
 # Clone this repository
@@ -45,7 +41,7 @@ $ python nome_do_arquivo
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/clone-twiter/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/exercicio_python/blob/master/LICENSE) for more information.
 
 ---
 
